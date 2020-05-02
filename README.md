@@ -7,7 +7,8 @@
 
 
 ## Description 
-* User can post barter news and search someone else in this mobile app.
+* User can post waht they want to barter and search someone else in this mobile app.
+* Log in/Register is required
 
 ### Log-in/Register page
  <img src= "https://github.com/NEU-GradStudents/final-project-Timi0109/blob/master/images/4801587771816_.pic.jpg" width="200" height="400"/>
