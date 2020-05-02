@@ -2,7 +2,7 @@
 ## <img src= "https://github.com/NEU-GradStudents/final-project-Timi0109/blob/master/images/4791587771379_.pic.jpg" width="200" height="400"/>
 
 ## Quick Start
-* Checkout my project code through this link: https://drive.google.com/open?id=12c2wq-nK3CPa-NE_k4T1F2pMTYVk7TI0
+* Checkout my entrie project code through this link: https://drive.google.com/open?id=12c2wq-nK3CPa-NE_k4T1F2pMTYVk7TI0
 * Click link below to check how this mobile app works: https://drive.google.com/open?id=1RfScoTQX0ijH6bmTcjDqcUKxK_0Z2Wil
 
 
