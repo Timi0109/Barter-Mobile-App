@@ -7,7 +7,7 @@
 
 
 ## Description 
-* User can post waht they want to barter and search someone else in this mobile app.
+* User can post what they want to barter and search someone else in this mobile app.
 * Log in/Register is required
 * User can upload up to 4 photos in their post
 * In each post, the contents of description, title and price can't be empty 
